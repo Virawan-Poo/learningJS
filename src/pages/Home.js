@@ -97,7 +97,6 @@ const Home = () => {
 
   getUserByMaxAndMinAge("min");
   getUserByMaxAndMinAge("max");
-  getAgeByName("Boat");
   getAgeByName("Jeff");
   groupUserByAge();
 
